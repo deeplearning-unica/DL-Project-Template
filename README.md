@@ -7,13 +7,6 @@
 
 ## 👥 Team: [Nome del Gruppo]
 
-| Nome | Matricola | Ruolo / Contributo principale |
-|------|-----------|-------------------------------|
-| Nome Cognome | 12345 | Descrizione del contributo |
-| Nome Cognome | 12346 | Descrizione del contributo |
-| Nome Cognome | 12347 | Descrizione del contributo |
-| Nome Cognome | 12348 | Descrizione del contributo |
-
 ---
 
 ## 📌 Descrizione del Progetto
